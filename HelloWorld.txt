@@ -1,4 +1,8 @@
 Version1 
 Version2
 Änderung in der Integrationsphase.
+<<<<<<< HEAD
 Version3
+=======
+Konflikt1
+>>>>>>> develop
